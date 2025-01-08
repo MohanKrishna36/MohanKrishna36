@@ -60,14 +60,14 @@ I'm a passionate Software Engineering student at VIT-AP University, specializing
 ## 🚀 Projects
 
 ### Portfolio Website
-- **Tech Stack:** Next.js, Tailwind CSS, Framer Motion
+- **Tech Stack:** Next.js, CSS, Framer Motion
 - **Description:** A modern, responsive portfolio website showcasing my projects and skills
 - **Features:**
   - Smooth animations and transitions
   - Responsive design for all devices
   - Dark/Light mode toggle
   - Project showcase with detailed information
-- **[Live Demo](https://1ex5yiy18k2wortk.vercel.app/) | [GitHub Repo](https://github.com/mohankrishna1123/portfolio)**
+- **[Live Demo](https://1ex5yiy18k2wortk.vercel.app/) | [GitHub Repo](https://github.com/MohanKrishna369/portfolio)**
 
 ### PlacementDiaries
 - **Tech Stack:** HTML, CSS, JavaScript, Flask
@@ -77,7 +77,7 @@ I'm a passionate Software Engineering student at VIT-AP University, specializing
   - Interview experience sharing platform
   - Resource repository for placement preparation
   - Company-wise interview question bank
-- **[GitHub Repository](https://github.com/mohankrishna1123/PlacementDiaries)**
+- **[GitHub Repository](https://github.com/MohanKrishna36/PlacementDiaries)**
 
 ### Machine Learning Projects
 - **Tech Stack:** Python, TensorFlow, scikit-learn, Pandas, NumPy
@@ -92,7 +92,7 @@ I'm a passionate Software Engineering student at VIT-AP University, specializing
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MohanKrishna36&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohanKrishna36&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohanKrishna36 & theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 🤝 Let's Connect!
@@ -102,7 +102,7 @@ I'm always open to interesting conversations and collaboration opportunities. Fe
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-purple?style=for-the-badge&logo=vercel)](https://1ex5yiy18k2wortk.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:mohankrishna1123@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:mohankrishnaaruru@gmail.com)
 
 </div>
 
