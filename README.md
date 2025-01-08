@@ -1,40 +1,43 @@
 <div align="center">
 
-<img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202025-01-02%20at%2014.40.03_1cfbe5db.jpg-lWxwDQIBrUSGSI5Vpbl7vPcjp18Aui.jpeg" alt="Aruru Mohan Krishna" width="200" style="border-radius: 10px; margin-bottom: 20px;" />
+<img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202025-01-02%20at%2014.40.03_1cfbe5db.jpg-lWxwDQIBrUSGSI5Vpbl7vPcjp18Aui.jpeg" alt="Aruru Mohan Krishna" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
 
-# Aruru Mohan Krishna
-### Software Engineering Student at VIT-AP
+# Hello, I'm Aruru Mohan Krishna! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[Portfolio](https://1ex5yiy18k2wortk.vercel.app/) • 
-[LinkedIn](https://www.linkedin.com/in/aruru-mohan-krishna-79b851226/) • 
-[GitHub](https://github.com/mohankrishna1123)
+<p align="center">
+  <a href="https://1ex5yiy18k2wortk.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/aruru-mohan-krishna-79b851226/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/mohankrishna1123">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <em>
+    Software Engineering Student at VIT-AP University
+    <br>
+    Passionate about creating innovative solutions through code
+  </em>
+</p>
 
 </div>
 
-## About Me
-
-A passionate software engineering student specializing in web development, machine learning, and software engineering. With a strong foundation in both frontend and backend technologies, I'm dedicated to creating innovative solutions that make a difference.
-
-## Education
-
-**Vellore Institute of Technology, Amaravathi**  
-Integrated M.Tech in Software Engineering (2021-2026)  
-CGPA: 9.06
-
-**MJPAPBCWRIES, Doravariisatram**  
-BIEAP, Class XII (2019-2021)  
-Percentage: 91.9%
-
-**Vema High School, Andhra Pradesh**  
-SSC, Class X (2018-2019)  
-CGPA: 9.8
-
-## Technical Expertise
+## 🚀 About Me
 
 ```python
-skills = {
-    "Languages": ["Python", "JavaScript", "Java", "C++"],
-    "Web Development": ["React.js", "Next.js", "HTML5", "CSS3", "Tailwind CSS"],
-    "Machine Learning": ["TensorFlow", "scikit-learn", "NumPy", "Pandas"],
-    "Tools": ["Git", "VS Code", "Vercel"]
-}
+class SoftwareEngineer:
+    def __init__(self):
+        self.name = "Aruru Mohan Krishna"
+        self.role = "Software Engineering Student"
+        self.language_spoken = ["Telugu", "English", "Hindi"]
+        self.interests = ["Web Development", "Machine Learning", "Software Engineering"]
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together!")
+
+me = SoftwareEngineer()
+me.say_hi()
