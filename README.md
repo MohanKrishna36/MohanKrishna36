@@ -34,14 +34,13 @@ I'm a passionate Software Engineering student at VIT-AP University, specializing
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### Web Development
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### Machine Learning & AI
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -53,6 +52,10 @@ I'm a passionate Software Engineering student at VIT-AP University, specializing
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![MS Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![MS Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![MS PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
 ## 🚀 Projects
 
@@ -66,6 +69,16 @@ I'm a passionate Software Engineering student at VIT-AP University, specializing
   - Project showcase with detailed information
 - **[Live Demo](https://1ex5yiy18k2wortk.vercel.app/) | [GitHub Repo](https://github.com/mohankrishna1123/portfolio)**
 
+### PlacementDiaries
+- **Tech Stack:** HTML, CSS, JavaScript, Flask
+- **Description:** A web application to help students prepare for placements and share experiences
+- **Features:**
+  - User authentication and profile management
+  - Interview experience sharing platform
+  - Resource repository for placement preparation
+  - Company-wise interview question bank
+- **[GitHub Repository](https://github.com/mohankrishna1123/PlacementDiaries)**
+
 ### Machine Learning Projects
 - **Tech Stack:** Python, TensorFlow, scikit-learn, Pandas, NumPy
 - **Description:** A collection of machine learning projects implementing various algorithms and techniques
@@ -75,20 +88,11 @@ I'm a passionate Software Engineering student at VIT-AP University, specializing
   - Predictive Modeling for Stock Price Forecasting
 - **[GitHub Repository](https://github.com/mohankrishna1123/ml-projects)**
 
-### E-commerce Web Application
-- **Tech Stack:** React.js, Node.js, Express.js, MongoDB
-- **Description:** A full-stack e-commerce platform with user authentication and payment integration
-- **Features:**
-  - User registration and authentication
-  - Product catalog with search and filter functionality
-  - Shopping cart and checkout process
-  - Admin dashboard for product management
-- **[GitHub Repository](https://github.com/mohankrishna1123/ecommerce-app)**
-
 ## 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohankrishna1123&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohankrishna1123&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 🤝 Let's Connect!
