@@ -91,8 +91,8 @@ I'm a passionate Software Engineering student at VIT-AP University, specializing
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohankrishna1123&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohankrishna1123&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MohanKrishna36&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohanKrishna36&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 🤝 Let's Connect!
