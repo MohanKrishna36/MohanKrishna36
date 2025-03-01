@@ -5,7 +5,7 @@
 # Hello, I'm Aruru Mohan Krishna! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <p align="center">
-  <a href="https://1ex5yiy18k2wortk.vercel.app/">
+  <a href="https://v0-portfolio-rwsbk0ixl3i-alndyx.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/aruru-mohan-krishna-79b851226/">
