@@ -5,7 +5,7 @@
 # Hello, I'm Aruru Mohan Krishna! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <p align="center">
-  <a href="https://v0-portfolio-rwsbk0ixl3i-alndyx.vercel.app/">
+  <a href="https://v0-portfolio-rwsbk0ixl3i.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/aruru-mohan-krishna-79b851226/">
@@ -102,7 +102,7 @@ I'm always open to interesting conversations and collaboration opportunities. Fe
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-purple?style=for-the-badge&logo=vercel)](https://1ex5yiy18k2wortk.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-purple?style=for-the-badge&logo=vercel)](https://v0-portfolio-rwsbk0ixl3i.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:mohankrishnaaruru@gmail.com)
 
 </div>
